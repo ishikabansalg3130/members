@@ -1,5 +1,5 @@
 ---
-name: <Harshvardhan Das>
-github_username: <Harshhvardhan>
-branch: <ECE>
+name: Harshvardhan Das
+github_username: Harshhvardhan
+branch: ECE
 ---
